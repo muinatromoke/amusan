@@ -1,0 +1,30 @@
+*{
+    margin: 0pt;
+}
+.header{
+    height: 10%;
+    background-color: black;
+    width: 100%;
+}
+.footer{
+    height: 10%;
+    background-color: black;
+    width: 100%;
+}
+.body{
+    height: 80%;
+    background-color: yellow;
+    width: 100%;
+}
+.levelone{
+    height: 25%;
+    background-color: green;
+}
+.leveltwo{
+    height: 50%;
+    background-color: white;
+}
+.levelthree{
+    height: 25%;
+    background-color: green;
+}
